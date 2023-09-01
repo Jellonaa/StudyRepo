@@ -1,11 +1,3 @@
 # StudyRepo
 
-test
-test push
-
-
-brach2 muutos
-
-
-git branch test
-
+a repository of stuff for my studies
