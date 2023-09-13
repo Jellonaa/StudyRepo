@@ -102,9 +102,7 @@ compiler_clean:
 ####### Compile
 
 release/main.o: ../teht3/main.cpp ../teht3/chefs.cpp \
-		../teht3/chefs.h \
-		../teht3/chefs2.cpp \
-		../teht3/chefs2.h
+		../teht3/chefs.h
 	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o release\main.o ..\teht3\main.cpp
 
 ####### Install
