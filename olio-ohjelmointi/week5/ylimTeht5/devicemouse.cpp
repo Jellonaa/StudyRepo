@@ -7,7 +7,7 @@ DeviceMouse::DeviceMouse()
 
 void DeviceMouse::setPrimaryButton()
 {
-    cout << "Anna PrimaryButton" << endl;
+    cout << "Set Mouse Primary Button: ";
     cin >> primaryButton;
 }
 

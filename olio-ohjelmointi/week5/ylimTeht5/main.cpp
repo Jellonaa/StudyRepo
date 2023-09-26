@@ -1,10 +1,9 @@
-#include <iostream>
 #include "mydeviceui.h"
+#include <iostream>
 
 int main()
 {
-    MyDeviceUI olio;
-    olio.uiShowMenu();
-
+    MyDeviceUI ui;
+    ui.uiShowMenu();
     return 0;
 }

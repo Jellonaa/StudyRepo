@@ -8,6 +8,7 @@ class DeviceBaseClass
 {
 public:
     DeviceBaseClass();
+    ~DeviceBaseClass();
     void setDeviceID();
     short getDeviceID();
 protected:

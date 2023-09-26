@@ -5,9 +5,13 @@ DeviceBaseClass::DeviceBaseClass()
 
 }
 
+DeviceBaseClass::~DeviceBaseClass()
+{
+
+}
+
 void DeviceBaseClass::setDeviceID()
 {
-    cout << "Anna deviceID" << endl;
     cin >> deviceID;
 }
 
