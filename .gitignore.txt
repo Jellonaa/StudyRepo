@@ -5,4 +5,8 @@
 /week5/**/build*/
 /week6/**/build*/
 /week7/**/build*/
+<<<<<<< HEAD
 /week8/**/build*/
+=======
+/week8/**/build*/
+>>>>>>> 0aad97c750ea486a9ff6ce08bbd414509177053f
